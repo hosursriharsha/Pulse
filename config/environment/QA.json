@@ -1,0 +1,5 @@
+{
+    "baseUrl":"https://google.com",
+    "browser":"chromium",
+    "headless": false
+}

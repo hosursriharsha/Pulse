@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Playwright output
+playwright-report/
+test-results/
+
+# Allure generated output
+allure-results/
+allure-report/
+
+# Screenshots and runtime artifacts
+screenshots/
+
+# Local secrets / environment overrides
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
